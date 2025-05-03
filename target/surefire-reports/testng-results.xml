@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-03T14:10:13 SGT" name="Suite" finished-at="2025-05-03T14:10:23 SGT" duration-ms="10198">
+    <groups>
+    </groups>
+    <test started-at="2025-05-03T14:10:13 SGT" name="Test" finished-at="2025-05-03T14:10:23 SGT" duration-ms="10198">
+      <class name="com.amazontests.HomeTest">
+        <test-method is-config="true" signature="startapp()[pri:0, instance:com.amazontests.HomeTest@2f9f7dcf]" started-at="2025-05-03T14:10:13 SGT" name="startapp" finished-at="2025-05-03T14:10:23 SGT" duration-ms="9658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startapp -->
+        <test-method signature="hometest()[pri:0, instance:com.amazontests.HomeTest@2f9f7dcf]" started-at="2025-05-03T14:10:23 SGT" name="hometest" finished-at="2025-05-03T14:10:23 SGT" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hometest -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:com.amazontests.HomeTest@2f9f7dcf]" started-at="2025-05-03T14:10:23 SGT" name="closeapp" finished-at="2025-05-03T14:10:23 SGT" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- com.amazontests.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
