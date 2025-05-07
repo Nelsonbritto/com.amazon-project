@@ -38,12 +38,14 @@
 </dependency>
 
     <!-- TestNG -->
-    <dependency>
-<groupId>org.testng</groupId>
-<artifactId>testng</artifactId>
-<version>7.7.1</version>
-<scope>test</scope>
+  <dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.9.0</version> <!-- or the latest stable -->
+    <scope>test</scope>
 </dependency>
+
+
 
     <!-- Cucumber Core-->
     <dependency>
@@ -119,6 +121,7 @@
         <artifactId>github-api</artifactId>
         <version>1.318</version>
     </dependency>
-</dependencies>
+    
+  </dependencies>
 
 </project>
